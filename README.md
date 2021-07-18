@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello everyone! I'm still learning how to make video games on Unity using C#, so I'll be here on GitHub with you all a while=) You can always reach me on Instagram @Roadman3D
+I'm still learning how to make video games on Unity using C#, so I'll be here on GitHub with you all for a while=) You can always reach me on Instagram @Roadman_3D
 <!--
 **Roadman3D/Roadman3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
